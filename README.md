@@ -1,11 +1,11 @@
 # bashcolors
 color defination (regular, bold, italic, unterline, reverse, ...)
 
-clone this script with 
+add this git repo as submodule 
 
-     git clone https://github.com/TonyFord/bashcolors
+     git submodule add https://github.com/TonyFord/bashcolors
 
-and include it in your script file with
+and include it in your script file
 
      source ./colors.bash
 
