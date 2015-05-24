@@ -7,5 +7,5 @@ add this git repo as submodule
 
 and include it in your script file
 
-     source ./colors.bash
+     source ./bashcolors/colors.bash
 
